@@ -1,0 +1,66 @@
+<html>
+<title> my schedule </tite>
+<body>
+<table border=1px bgcolor="green">
+<caption><h2> Jareds 2019-2020 semester 1 schedule</h2></caption>
+<tr bgcolor="yellow"> <!--tr= table row-->
+ <th>Period</th>  <!-- th = table heading -->
+        <th>Time</th>
+        <th>Class</th>
+        <th>Teacher/Room</th>
+      </tr>
+       <tr>
+        <td rowspan=2>0</td>  <!-- td = table data -->
+        <td rowspan=2>6:15-7:10</td>
+        <td rowspan=2>Jazz 2</td>
+        <td>Mrs.Stevenson</td>
+      </tr>
+      <tr>
+       <td bgcolor="orange">NE 122</td>
+       </tr>
+      <tr>
+        <td rowspan=2>1</td>  <!-- td = table data -->
+        <td rowspan=2>7:20-8:10</td>
+        <td rowspan=2>biology</td>
+        <td>Mr.carden/ray</td>
+      </tr>
+    
+      <tr>
+          <td>SE 221</td>
+      </tr>
+      
+      <tr>
+        <td rowspan=2>2</td> 
+        <td rowspan=2>8:15-9:05</td>
+        <td rowspan=2>English</td>
+        <td>Mrs. Benson</td>
+      </tr>
+      <tr>
+        <td>NW 203</td>
+      </tr>
+       <tr>
+        <td rowspan=2>3</td> 
+        <td rowspan=2>9:40-10:30</td>
+        <td rowspan=2>Weight Training</td>
+        <td>Mr. Knudsen</td>
+      </tr>
+      <tr>
+        <td>WT RM/td>
+      </tr>
+       <tr>
+        <td rowspan=2>4</td> 
+        <td rowspan=2>11:10-12:00</td>
+        <td rowspan=2>Concert Band</td>
+        <td>Mrs. Stevenson</td>
+      </tr>
+      <tr>
+        <td>NE 122</td>
+      </tr>
+      
+      
+      
+    
+      
+    </table>
+  </body>
+</html>
